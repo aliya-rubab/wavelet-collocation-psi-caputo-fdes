@@ -1,9 +1,14 @@
 # Operators
 
-This directory contains the operational matrices used in the wavelet collocation method.
+This directory contains the operational matrices required by the ψ-Gegenbauer wavelet collocation method.
 
-## Files
+## IVP Operators (`ivp/`)
 
 - `LmtxG.m` – Operational matrix associated with ψ-Gegenbauer wavelets.
 - `PLFalphaG.m` – ψ-fractional integration operational matrix.
-- `KLG.m` – Operational matrix used in the nonlinear boundary value problem.
+
+## BVP Operators (`bvp/`)
+
+- `LmtxG.m` – Operational matrix associated with ψ-Gegenbauer wavelets.
+- `PLFalphaG.m` – ψ-fractional integration operational matrix.
+- `KLG.m` – Boundary-condition matrix used for nonlinear ψ-Caputo fractional boundary value problems.
