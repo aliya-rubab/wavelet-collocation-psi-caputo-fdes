@@ -3,7 +3,7 @@
 % Author: Aliya Rubab
 %
 % Example 1:
-% Solves a nonlinear Psi-Caputo fractional boundary value problem using the
+% Solves a nonlinear psi-Caputo fractional boundary value problem using the
 % psi-Gegenbauer wavelet collocation method.
 %
 % This example reproduces the numerical results reported in the paper.
