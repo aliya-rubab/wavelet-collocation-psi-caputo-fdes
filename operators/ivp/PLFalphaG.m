@@ -3,7 +3,7 @@
 % Author: Aliya Rubab.
 %
 % Computes the psi-Caputo fractional integration operational matrix for
-% ?-Gegenbauer wavelets.
+% psi-Gegenbauer wavelets.
 %
 % This function evaluates the psi-Caputo fractional integral of the
 % psi-Gegenbauer wavelet basis functions using numerical quadrature and
