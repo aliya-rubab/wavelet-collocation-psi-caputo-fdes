@@ -24,9 +24,9 @@ alp   = 17.5;
 f = @(x) tan(x*pi./4);
 
 %%%%% Parameter sets for the four cases
-kSet  = [2 3 4 5];
-MSet  = [3 4 5 6];
-nnSet = [2 3 4 5];
+kSet  = [2 3 4 ];
+MSet  = [3 4 5 ];
+nnSet = [2 3 4 ];
 
 %%%%% Run all four cases
 for caseNo = 1:length(kSet)
