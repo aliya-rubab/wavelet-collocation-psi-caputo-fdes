@@ -5,7 +5,7 @@
 %
 % This function evaluates the psi-Gegenbauer wavelet basis functions at the
 % collocation points and assembles the corresponding operational matrix
-% used in the wavelet collocation method for solving ?-Caputo fractional
+% used in the wavelet collocation method for solving psi-Caputo fractional
 % differential equations.
 %
 %Inputs:
