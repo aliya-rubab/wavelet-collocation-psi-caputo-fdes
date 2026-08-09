@@ -2,11 +2,11 @@
 % PLFalphaG.m
 % Author: Aliya Rubab.
 %
-% Computes the ?-Caputo fractional integration operational matrix for
+% Computes the psi-Caputo fractional integration operational matrix for
 % ?-Gegenbauer wavelets.
 %
-% This function evaluates the ?-Caputo fractional integral of the
-% ?-Gegenbauer wavelet basis functions using numerical quadrature and
+% This function evaluates the psi-Caputo fractional integral of the
+% psi-Gegenbauer wavelet basis functions using numerical quadrature and
 % constructs the corresponding operational matrix used in the wavelet
 % collocation method.
 %
@@ -18,8 +18,8 @@
 %   M      - Number of wavelet basis functions
 %
 % Output:
-%   PLG    - Operational matrix representing the ?-Caputo fractional
-%            integral of the ?-Gegenbauer wavelet basis
+%   PLG    - Operational matrix representing the psi-Caputo fractional
+%            integral of the psi-Gegenbauer wavelet basis
 %==========================================================================
 %==========================================================================
 
