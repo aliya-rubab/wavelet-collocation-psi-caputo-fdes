@@ -1,9 +1,9 @@
 %==========================================================================
 % LmtxG.m
 % Author: Aliya Rubab
-% Constructs the operational matrix associated with ?-Gegenbauer wavelets.
+% Constructs the operational matrix associated with psi-Gegenbauer wavelets.
 %
-% This function evaluates the ?-Gegenbauer wavelet basis functions at the
+% This function evaluates the psi-Gegenbauer wavelet basis functions at the
 % collocation points and assembles the corresponding operational matrix
 % used in the wavelet collocation method for solving ?-Caputo fractional
 % differential equations.
